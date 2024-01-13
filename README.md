@@ -1,4 +1,4 @@
-# Image-Classifirs-Keras-Tenserflow
+# Image-Classifier-Keras-Tenserflow
 
 This project focuses on the creation and use of a Convolutional Neural Network (CNN) for the purpose of image classification. It aims to illustrate how CNNs can be effectively employed to recognize and categorize objects in images, specifically utilizing the Oxford-III Pet Dataset.
 
