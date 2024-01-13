@@ -5,5 +5,7 @@ This project focuses on the creation and use of a Convolutional Neural Network (
 Key aspects of the project include:
 
 Developing a Convolutional Neural Network using tools like TensorFlow and Keras-tuner, initially leveraging mobilenetV2 architecture, and subsequently constructing a custom neural network.
+
 Applying data preprocessing methods suitable for image data to enhance the effectiveness of the model.
+
 Employing various strategies to assess and validate the performance of the model.
